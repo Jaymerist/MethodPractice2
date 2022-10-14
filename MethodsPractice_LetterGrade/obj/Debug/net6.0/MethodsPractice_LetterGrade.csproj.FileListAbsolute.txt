@@ -1,0 +1,15 @@
+C:\Users\mkamiss1\source\repos\MethodsPractice_LetterGrade\obj\Debug\net6.0\MethodsPractice_LetterGrade.csproj.AssemblyReference.cache
+C:\Users\mkamiss1\source\repos\MethodsPractice_LetterGrade\obj\Debug\net6.0\MethodsPractice_LetterGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkamiss1\source\repos\MethodsPractice_LetterGrade\obj\Debug\net6.0\MethodsPractice_LetterGrade.AssemblyInfoInputs.cache
+C:\Users\mkamiss1\source\repos\MethodsPractice_LetterGrade\obj\Debug\net6.0\MethodsPractice_LetterGrade.AssemblyInfo.cs
+C:\Users\mkamiss1\source\repos\MethodsPractice_LetterGrade\obj\Debug\net6.0\MethodsPractice_LetterGrade.csproj.CoreCompileInputs.cache
+C:\Users\mkamiss1\source\repos\MethodsPractice_LetterGrade\bin\Debug\net6.0\MethodsPractice_LetterGrade.exe
+C:\Users\mkamiss1\source\repos\MethodsPractice_LetterGrade\bin\Debug\net6.0\MethodsPractice_LetterGrade.deps.json
+C:\Users\mkamiss1\source\repos\MethodsPractice_LetterGrade\bin\Debug\net6.0\MethodsPractice_LetterGrade.runtimeconfig.json
+C:\Users\mkamiss1\source\repos\MethodsPractice_LetterGrade\bin\Debug\net6.0\MethodsPractice_LetterGrade.dll
+C:\Users\mkamiss1\source\repos\MethodsPractice_LetterGrade\bin\Debug\net6.0\MethodsPractice_LetterGrade.pdb
+C:\Users\mkamiss1\source\repos\MethodsPractice_LetterGrade\obj\Debug\net6.0\MethodsPractice_LetterGrade.dll
+C:\Users\mkamiss1\source\repos\MethodsPractice_LetterGrade\obj\Debug\net6.0\refint\MethodsPractice_LetterGrade.dll
+C:\Users\mkamiss1\source\repos\MethodsPractice_LetterGrade\obj\Debug\net6.0\MethodsPractice_LetterGrade.pdb
+C:\Users\mkamiss1\source\repos\MethodsPractice_LetterGrade\obj\Debug\net6.0\MethodsPractice_LetterGrade.genruntimeconfig.cache
+C:\Users\mkamiss1\source\repos\MethodsPractice_LetterGrade\obj\Debug\net6.0\ref\MethodsPractice_LetterGrade.dll

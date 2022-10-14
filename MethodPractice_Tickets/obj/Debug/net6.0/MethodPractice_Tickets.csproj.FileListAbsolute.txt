@@ -1,0 +1,15 @@
+C:\Users\mkamiss1\source\repos\MethodPractice_Tickets\bin\Debug\net6.0\MethodPractice_Tickets.exe
+C:\Users\mkamiss1\source\repos\MethodPractice_Tickets\bin\Debug\net6.0\MethodPractice_Tickets.deps.json
+C:\Users\mkamiss1\source\repos\MethodPractice_Tickets\bin\Debug\net6.0\MethodPractice_Tickets.runtimeconfig.json
+C:\Users\mkamiss1\source\repos\MethodPractice_Tickets\bin\Debug\net6.0\MethodPractice_Tickets.dll
+C:\Users\mkamiss1\source\repos\MethodPractice_Tickets\bin\Debug\net6.0\MethodPractice_Tickets.pdb
+C:\Users\mkamiss1\source\repos\MethodPractice_Tickets\obj\Debug\net6.0\MethodPractice_Tickets.csproj.AssemblyReference.cache
+C:\Users\mkamiss1\source\repos\MethodPractice_Tickets\obj\Debug\net6.0\MethodPractice_Tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkamiss1\source\repos\MethodPractice_Tickets\obj\Debug\net6.0\MethodPractice_Tickets.AssemblyInfoInputs.cache
+C:\Users\mkamiss1\source\repos\MethodPractice_Tickets\obj\Debug\net6.0\MethodPractice_Tickets.AssemblyInfo.cs
+C:\Users\mkamiss1\source\repos\MethodPractice_Tickets\obj\Debug\net6.0\MethodPractice_Tickets.csproj.CoreCompileInputs.cache
+C:\Users\mkamiss1\source\repos\MethodPractice_Tickets\obj\Debug\net6.0\MethodPractice_Tickets.dll
+C:\Users\mkamiss1\source\repos\MethodPractice_Tickets\obj\Debug\net6.0\refint\MethodPractice_Tickets.dll
+C:\Users\mkamiss1\source\repos\MethodPractice_Tickets\obj\Debug\net6.0\MethodPractice_Tickets.pdb
+C:\Users\mkamiss1\source\repos\MethodPractice_Tickets\obj\Debug\net6.0\MethodPractice_Tickets.genruntimeconfig.cache
+C:\Users\mkamiss1\source\repos\MethodPractice_Tickets\obj\Debug\net6.0\ref\MethodPractice_Tickets.dll
